@@ -1,6 +1,7 @@
 # Decibel-Triggered Traffic Signal Control System using Arduino
 
-![Arduino Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AArduino_Logo.svg&psig=AOvVaw1vJDAIu1kV5jr-2wBidMsk&ust=1691588440901000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCTsJOYzYADFQAAAAAdAAAAABAE)
+![Arduino Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg)
+
 
 
 
