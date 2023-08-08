@@ -33,6 +33,8 @@ This Arduino project controls a traffic signal based on a set timer. The signal 
 ## Note
 
 Replace the button in the circuit with a sound sensor for the intended functionality. Adjust the threshold in the code accordingly to trigger the reset action based on sound levels.
+
+
 <img src="https://lab.arts.ac.uk/uploads/images/gallery/2022-09/lH203XWCwBecBW15-sounddetectordigitaldiagram-01.png" alt="Sound Detector Diagram" width="400">
 
 
@@ -73,7 +75,8 @@ The "Decibel-Triggered Traffic Signal Control System using Arduino" project reso
 
 Experience the dynamic functionality of this project through an interactive simulation hosted on Wowki. The simulation provides a hands-on virtual environment where you can explore the project's features and see its real-time impact.
 
-![Wokwi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.makerzine.com.br%2Feducacao%2Fwokwi-simulador-de-circuitos-eletronicos-open-source-para-makers%2F&psig=AOvVaw3tkGtTYN-BMeaUg0Iy1OLD&ust=1691589162430000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjKquuazYADFQAAAAAdAAAAABAY)
+<img src="https://www.makerzine.com.br/wp-content/uploads/2021/06/Wokwi-logo.png" alt="Wokwi Logo" width="300">
+
 
 
 ### How to Access:
