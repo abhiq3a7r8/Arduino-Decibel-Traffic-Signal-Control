@@ -33,7 +33,8 @@ This Arduino project controls a traffic signal based on a set timer. The signal 
 ## Note
 
 Replace the button in the circuit with a sound sensor for the intended functionality. Adjust the threshold in the code accordingly to trigger the reset action based on sound levels.
-![Sound Sensor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiyi0t.com%2Fsound-sensor-arduino-esp8266-esp32%2F&psig=AOvVaw2oYkUGVIsXoJ0ceKFd0cPj&ust=1691588702576000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjF84-ZzYADFQAAAAAdAAAAABAE)
+<img src="https://lab.arts.ac.uk/uploads/images/gallery/2022-09/lH203XWCwBecBW15-sounddetectordigitaldiagram-01.png" alt="Sound Detector Diagram" width="400">
+
 
 ## Project's Practical Utility
 
